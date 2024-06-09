@@ -1,0 +1,196 @@
+h1{
+    text-align: center;
+    font-size: 70px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Tmes New Roman', Times, serif;
+}
+
+h3{
+    font-size: 20px;
+    font-family: 'Tmes New Roman', Times, serif;
+}
+
+table{
+    border-collapse: separate;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+th{
+    border-style: solid;
+    border-width: 2px;
+}
+
+thead :nth-child(odd){
+    background-color: rgb(248, 169, 192);
+}
+
+#kategorier{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#forside-body{
+    background-color: rgb(248, 202, 202);
+}
+
+#bio{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+#frokost-body{
+    background-color: rgb(248, 213, 186);
+}
+
+#Forside{
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    width: 500px;
+    height: 500px;
+}
+
+#Frokost1{
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    width: 430px;
+    height: 350px;
+}
+
+#Eggerøreoppskrift{
+    text-align: center;
+    border: 2px solid rgb(0, 0, 0);
+    padding: 10px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif
+}
+
+#eggerøreoppskrift-body{
+    background-color: rgb(248, 213, 186);
+}
+
+#Frokost2{
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    width: 430px;
+    height: 350px;
+}
+
+#Belgiskevaffleroppskrift{
+    text-align: center;
+    border: 2px solid rgb(0, 0, 0);
+    padding: 10px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#belgiskevaffleroppskrift-body{
+    background-color: rgb(248, 213, 186);
+}
+
+#middag-body{
+    background-color: rgb(192, 215, 186);
+}
+
+#Middag1{
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    width: 550px;
+    height: 350px;
+}
+
+#Pastasalatoppskrift{
+    text-align: center;
+    border: 2px solid rgb(0, 0, 0);
+    padding: 10px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#pastasalatoppskrift-body{
+    background-color: rgb(192, 215, 186);
+}
+
+#Middag2{
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    width: 550px;
+    height: 350px;
+}
+
+#Enchiladasoppskrift{
+    text-align: center;
+    border: 2px solid rgb(0, 0, 0);
+    padding: 10px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#enchiladasoppskrift-body{
+    background-color: rgb(192, 215, 186);
+}
+
+#dessert-body{
+    background-color: rgb(220, 199, 240);
+}
+
+#Dessert1{
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    width: 550px;
+    height: 350px;
+}
+
+#Crémebrûléeoppskrift{
+    text-align: center;
+    border: 2px solid rgb(0, 0, 0);
+    padding: 10px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#crémebrûléeoppskrift-body{
+    background-color: rgb(220, 199, 240);
+}
+
+#Dessert2{
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    width: 550px;
+    height: 350px;
+}
+
+#Sjokoladefondantoppskrift{
+    text-align: center;
+    border: 2px solid rgb(0, 0, 0);
+    padding: 10px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#sjokoladefondantoppskrift-body{
+    background-color: rgb(220, 199, 240);
+}
+
+#Matpratlink{
+    text-decoration: underline;
+    color: rgb(129, 41, 243);
+}
